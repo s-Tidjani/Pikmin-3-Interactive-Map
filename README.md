@@ -4,3 +4,4 @@ Clicking on fruits shows a video of them being juiced as well as information abo
 Clicking on data files shows the content of the file.
 Clicking on the world icons changes the part of the map you look at.
 Icons indicate where the respective item/enemy is in game.
+Image and Video files not included since they make the project go over github's file limit
